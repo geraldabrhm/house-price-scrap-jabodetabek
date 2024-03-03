@@ -33,7 +33,7 @@ LOCATIONS = {
     'pasar-rebo',
     'pulo-gadung',
   ],
-  # JAkarata Selatan
+  # Jakarta Selatan
   'jakarta-selatan': [
     'cilandak',
     'jagakarsa',
